@@ -1,2 +1,2 @@
-# ejecicio_6/04
+# ejecicio_6-04
 ejercicios de php
